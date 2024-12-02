@@ -1,0 +1,21 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment folder
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# Django settings
+*.log
+*.pot
+*.pyc
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
